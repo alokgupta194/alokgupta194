@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alokgupta194
-- 👀 I’m interested in software Development
 - 🌱 I’m working on MERN projects
 - 📫 How to reach me alokgupta194@gmil.com
 
